@@ -1,0 +1,9 @@
+.card-img-overlay > h2{
+    font-size: 50px;
+}
+.Card-text{
+    float: right;
+}
+.Card-text > h2{
+    font-size: 50px;
+}
